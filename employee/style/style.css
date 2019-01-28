@@ -1,0 +1,43 @@
+body{
+    max-width:1080px;
+    margin: auto;
+
+        background-color:#f0f0f0;
+        font-family:helvetica;
+        background:url('http://clevertechie.com/img/bnet-bg.jpg') #0f2439 no-repeat center top;
+
+      
+}
+#employee-search{
+    max-width:800px;
+    margin: auto;
+}
+.clear{
+    clear: both;
+}
+#employee-table{
+    overflow-x: scroll!important;
+    max-height:600px;
+    overflow-y: scroll!important;
+
+    
+}
+.block {
+    width: 100%;
+    
+}
+
+
+
+footer{
+    width: 100%;
+    padding: 10px;
+    color: #ffffff;
+}
+.padding{padding: 10px;}
+
+/*COlors*/
+.white{background-color: #ffffff!important;color:#333;}
+.dark-gray{background-color: #333333!important;color:#ffffff;}
+.light-gary{background-color: #f8f8f8!important;color:#333;}
+.white{background-color: #ffffff!important;color:#333;}
